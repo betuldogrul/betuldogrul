@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @betuldogrul
 - 👀 I’m interested in reading, learning about space and watching series. 
-- 🌱 I’m currently learning computer science at Bilkent University as a freshman.
+- 🌱 I’m currently learning computer science at Bilkent University.
 
 <!---
 betuldogrul/betuldogrul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
